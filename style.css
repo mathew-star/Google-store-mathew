@@ -91,10 +91,8 @@ ul li{
 }
 .left-cont label{
     margin-bottom: 0.8em;
-    position: sticky;
-    top: 10%;
-
 }
+
 .left-cont input{
     margin-right: 5px;
     vertical-align: middle;
